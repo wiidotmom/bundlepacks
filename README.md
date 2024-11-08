@@ -6,6 +6,7 @@ Turn your bundles into backpacks!
 
 - All bundles now provide 1 armor point and are equippable
   - Dyed bundles are supported
+- Optional resource pack to show when a player has a bundle equipped
 
 ## Planned
 
