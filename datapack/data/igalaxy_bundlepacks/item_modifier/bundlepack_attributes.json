@@ -1,0 +1,12 @@
+{
+	"function": "minecraft:set_attributes",
+	"modifiers": [
+		{
+			"attribute": "minecraft:armor",
+			"operation": "add_value",
+			"amount": 1,
+			"id": "igalaxy_bundlepacks:bundlepack_armor",
+			"slot": "chest"
+		}
+	]
+}

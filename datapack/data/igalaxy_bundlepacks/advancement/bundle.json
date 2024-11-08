@@ -1,0 +1,23 @@
+{
+	"criteria": {
+		"bundle": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"player": {
+					"type_specific": {
+						"type": "minecraft:player",
+						"gamemode": ["adventure", "survival"]
+					}
+				},
+				"items": [
+					{
+						"items": "#minecraft:bundles"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "igalaxy_bundlepacks:iterate_slots"
+	}
+}
