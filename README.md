@@ -1,4 +1,4 @@
-# 🎒 bundlepacks
+# 🎒 Bundlepacks
 
 Turn your bundles into backpacks!
 
@@ -7,7 +7,7 @@ Turn your bundles into backpacks!
 - All bundles now provide 1 armor point and are equippable
   - Dyed bundles are supported
 
-## Coming Soon
+## Planned
 
 - Upgrade your bundlepacks with a chestplate for more armor points!
   - Armor trims will be supported
