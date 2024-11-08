@@ -12,6 +12,6 @@ Turn your bundles into backpacks!
 - Upgrade your bundlepacks with a chestplate for more armor points!
   - Armor trims will be supported
 
-## Compatibility
+### Compatibility
 
 For use with Polymer & other server-side mods, see https://polymer.pb4.eu/latest/user/resource-pack-custom-assets/
