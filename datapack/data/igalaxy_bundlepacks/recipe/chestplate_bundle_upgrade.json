@@ -1,0 +1,8 @@
+{
+	"type": "crafting_transmute",
+	"category": "equipment",
+	"group": "igalaxy_bundlepacks:chestplate_bundle_upgrade",
+	"input": "#igalaxy_bundlepacks:chest_armor",
+	"material": "minecraft:leather",
+	"result": "minecraft:bundle"
+}

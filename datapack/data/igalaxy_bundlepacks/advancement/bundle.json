@@ -11,7 +11,7 @@
 				},
 				"items": [
 					{
-						"items": "#minecraft:bundles"
+						"items": "#igalaxy_bundlepacks:bundlepack"
 					}
 				]
 			}

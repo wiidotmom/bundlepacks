@@ -1,0 +1,8 @@
+{
+	"function": "set_name",
+	"name": {
+		"type": "translatable",
+		"translate": "igalaxy_bundlepacks.iron_chestplate_with_bundle"
+	},
+	"target": "item_name"
+}
