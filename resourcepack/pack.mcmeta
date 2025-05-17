@@ -2,8 +2,8 @@
 	"pack": {
 		"description": [
 			{ "color": "#cd7b46", "text": "igalaxy's Bundlepacks" },
-			{ "color": "gray", "text": "\n1.0.0 for Minecraft 1.21.3 (resources)" }
+			{ "color": "gray", "text": "\n1.1.0 for Minecraft 1.21.5 (resources)" }
 		],
-		"pack_format": 42
+		"pack_format": 55
 	}
 }
