@@ -1,30 +1,26 @@
 {
-	"criteria": {
-		"bundle": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"player": {
-					"type": "minecraft:entity_properties",
-					"entity": "this",
-					"predicate": {
-						"type_specific": {
-							"type": "minecraft:player",
-							"gamemode": [
-								"adventure",
-								"survival"
-							]
-						}
-					}
-				},
-				"items": [
-					{
-						"items": "#minecraft:bundles"
-					}
-				]
-			}
-		}
-	},
-	"rewards": {
-		"function": "igalaxy_bundlepacks:iterate_slots"
-	}
+  "criteria": {
+    "bundle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "gamemode": ["survival", "adventure"]
+            }
+          }
+        },
+        "items": [
+          {
+            "items": "#minecraft:bundles"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "igalaxy_bundlepacks:iterate_slots"
+  }
 }
